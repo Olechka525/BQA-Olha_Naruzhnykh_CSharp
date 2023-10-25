@@ -17,6 +17,8 @@ Config module contains
  -'Config_harder' class contains env's variables and uses json file source, registration, getter for the values.
  -'Config' class contains system variables, constants.
 
+ Program class is used to verify results for Config_Easy and Config_Hareder class.
+
 ## Tests module
 This module includes all tests. GitHub folder was added.
 This GitHub folder consists of 2 folder:
